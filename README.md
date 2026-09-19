@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego Armando Gómez Vásquez 👋
 
-Estudiante de **Ingeniería en Desarrollo de Software** con formación técnica previa en programación Enfocado en desarrollo web full-stack, arquitectura de software, construcción de interfaces dinámicas y servicios backend robustos.
+Estudiante de Ingeniería en Desarrollo de Software con formación técnica previa en programación. Enfocado en desarrollo web full-stack, arquitectura de software, construcción de interfaces dinámicas y servicios backend robustos.
 
 ### 🛠️ Tecnologías y Herramientas
 
